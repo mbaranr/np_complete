@@ -40,5 +40,5 @@ The problem is solved in a non-deterministic manner, because it is NP-complete. 
 
 ## Credits
 
-* [m4mbo](https://github.com/m4mbo) - Code.
+* [mbaranr](https://github.com/mbaranr) - Code.
 * [DaGeRe](https://github.com/DaGeRe) - Theory.
